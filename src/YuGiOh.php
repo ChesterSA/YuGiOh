@@ -6,7 +6,7 @@ class YuGiOh
 {
     protected static $field;
 
-    public static function setField($field){
+    public static function setField(Field $field){
         self::$field = $field;
     }
 
@@ -27,7 +27,7 @@ class YuGiOh
         return $results;
     }
 
-    public static function runVsOpponents($decks, Deck $opponent)
+    public static function runVsOpponents(array $decks, Deck $opponent)
     {
         $results = [];
         foreach($decks as $deck){

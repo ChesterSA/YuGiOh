@@ -1,5 +1,5 @@
 {
-    "name": "chestersa/yugioh",
+    "name": "chestersa/yugioh-pegasus-castle-sprint",
     "description": "A breakdown of the Yu-Gi-Oh Pegasus' Castle Sprint board game",
     "autoload": {
         "psr-4": {

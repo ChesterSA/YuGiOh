@@ -42,7 +42,7 @@ class Field
         $this->addToField(Field::$WATER, $amount);
     }
 
-    protected function addToField($type, $amount)
+    public function addToField($type, $amount = 1)
     {
         for($i = 0; $i < $amount; $i++){
             $this->field[] = $type;
