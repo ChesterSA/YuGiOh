@@ -1,0 +1,16 @@
+{
+    "name": "chestersa/yugioh",
+    "description": "A breakdown of the Yu-Gi-Oh Pegasus' Castle Sprint board game",
+    "autoload": {
+        "psr-4": {
+            "Chestersa\\Yugioh\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chester Swann-Auger",
+            "email": "chester@hey.com"
+        }
+    ],
+    "require": {}
+}
