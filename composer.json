@@ -6,6 +6,7 @@
             "Chestersa\\Yugioh\\": "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "Chester Swann-Auger",
