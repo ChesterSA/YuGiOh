@@ -1,6 +1,6 @@
 <?php
 
-namespace Chestersa\Yugioh;
+namespace C16R\Yugioh;
 
 class Field
 {

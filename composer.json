@@ -1,9 +1,9 @@
 {
-    "name": "chestersa/yugioh-pegasus-castle-sprint",
+    "name": "c16r/yugioh-pegasus-castle-sprint",
     "description": "A breakdown of the Yu-Gi-Oh Pegasus' Castle Sprint board game",
     "autoload": {
         "psr-4": {
-            "Chestersa\\Yugioh\\": "src/"
+            "C16R\\Yugioh\\": "src/"
         }
     },
     "license": "MIT",
